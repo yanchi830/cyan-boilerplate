@@ -1,0 +1,56 @@
+{
+  "name": "cyan-boilerplate",
+  "version": "0.0.1",
+  "description": "Front-end code boilerplate for web development project",
+  "keywords": [
+    "boilerplate"
+  ],
+  "bugs": "https://github.com/yanchi830/cyan-boilerplate/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanchi830/cyan-boilerplate"
+  },
+  "authors": {
+    "name": "Chi Yan",
+    "email": "yanchi830@gmail.com"
+  },
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "ava": "^0.22.0",
+    "bluebird": "^3.5.0",
+    "flow": "^0.2.3",
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "svgxuse": "^1.2.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-lodash": "^3.2.11",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "chalk": "^2.1.0",
+    "del": "^3.0.0",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.3.0",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "stylelint": "^8.0.0",
+    "webpack": "^3.5.5"
+  },
+  "engines": {
+    "node": ">=6.x"
+  }
+}

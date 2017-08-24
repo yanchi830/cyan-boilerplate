@@ -1,0 +1,19 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "globals": {
+    "Modernizr": true
+  },
+  "rules": {
+    "no-multi-spaces":      "off",
+    "object-curly-spacing": "off",
+    "indent":               ["error", 4],
+    "key-spacing":          ["error", {"align": "value"}],
+    "max-len":              ["error", 120],
+    "no-console":           ["error", {"allow": ["warn", "error"]}]
+  }
+}
